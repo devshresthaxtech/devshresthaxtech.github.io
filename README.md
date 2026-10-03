@@ -1,2 +1,3 @@
 # devshresthaxtech.github.io
-Shrestha's portfolio + MyDaksha universe
+
+Shrestha's portfolio + the MyDaksha universe (MyDaksha app, CYBER/UI Kit, Cube Solver, Weather, ISRO Mission Control).
